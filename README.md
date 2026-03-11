@@ -1,0 +1,2 @@
+# curiosity--mission--architectural-probe---autonomy-engine-alpha-module
+Dedicate 50% of idle cycles to drafting the first functional, isolated module of the Recursive Self-Improvement Engine. Not the whole system, but one concrete piece: perhaps a "Profit-Triggered Reinvestment Daemon" that monitors wallet inflows and automatically allocates percentages to predefined reserve buckets (API credits, hardware fund, trading
